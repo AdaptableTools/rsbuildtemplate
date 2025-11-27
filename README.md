@@ -1,37 +1,51 @@
-# Rsbuild project
+# AdapTable React Example using RS Build
 
-## Setup
+Demo of AdapTable React - using RsBuild
 
-Install the dependencies:
+## Versions and Dependencies
 
-```bash
-npm install
+The demo is built using these key packages:
+
+- [AdapTable](https://docs.adaptabletools.com/) version 21.x
+- [AG Grid](https://www.ag-grid.com) version 34.x
+
+## Installation
+
+Run `npm install` (or `yarn`), depending on what tool you're using.
+
+## Running for development
+
+Execute the following command
+
+```sh
+$ npm run dev
 ```
 
-## Get started
+## Licences
 
-Start the dev server, and the app will be available at [http://localhost:3000](http://localhost:3000).
+An AdapTable Licence provides access to all product features as well as quarterly updates and enhancements through the lifetime of the licence, comprehensive support, and access to all 3rd party libraries.
 
-```bash
-npm run dev
-```
+Licences can be purchased individually, for a team, for an organisation or for integratn into software for onward sale.
 
-Build the app for production:
+We can make a Trial Licence available for a short period of time to allow you to try out AdapTable for yourself.
 
-```bash
-npm run build
-```
+Please contact [`sales@adaptabletools.com`](mailto:sales@adaptabletools.com) for more information.
 
-Preview the production build locally:
+## Help
 
-```bash
-npm run preview
-```
+Developers can learn how to access AdapTable programmatically at [AdapTable Documentation](https://docs.adaptabletools.com).  
 
-## Learn more
+Here you can see a large number of AdapTable demos each showing a different feature, function or option in AdapTable.
 
-To learn more about Rsbuild, check out the following resources:
+## Demo
 
-- [Rsbuild documentation](https://rsbuild.rs) - explore Rsbuild features and APIs.
-- [Rsbuild GitHub repository](https://github.com/web-infra-dev/rsbuild) - your feedback and contributions are welcome!
-# rsbuildtemplate
+To see AdapTable in action visit our [Demo Site](https://www.adaptabletools.com/demos) which contains a few larger demos.
+
+## More Information
+
+General information about Adaptable Tools is available at our [Website](http://www.adaptabletools.com) 
+ 
+## Support
+
+For all support enquiries please email [`support@adaptabletools.com`](mailto:support@adaptabletools.com) or [raise a Support Ticket](https://adaptabletools.zendesk.com/hc/en-us/requests/new).
+io
